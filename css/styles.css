@@ -1,0 +1,25 @@
+.content-container {
+  padding-top: 2rem;
+}
+
+.table-responsive {
+  padding-top: 1rem;
+}
+
+.table-container,
+.form-container {
+  padding-top: 1rem;
+}
+
+.shortinfotext {
+  font-size: 0.8em !important;
+}
+
+#userlist-table tbody > tr:hover {
+  cursor: pointer;
+}
+
+small.haserror{
+  color: #dc3545!important;
+}
+
